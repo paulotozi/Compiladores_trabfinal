@@ -1,7 +1,7 @@
 # Trabalho Final 
 Trabalho Final da disciplina Compiladores e Interpretadores
 lecionada pelo professor Valério Batista no Quadrimestre 2024.2, 
-o código em seguida foi utilizado com a ferramenta Antlr e com
+o código neste repositório foi escrito com a ferramenta Antlr e com
 a linguagem Python.
 
 ## Instruções
